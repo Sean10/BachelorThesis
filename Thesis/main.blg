@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+A level-1 auxiliary file: abstract.aux
+The style file: buptbachelor.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: ref.bib
+-- BUPTThesis.bst version 0.2 (2009/01/25) by Yu Zhang.
+-- http://code.google.com/p/buptthesis/
+-- See the "userguide.pdf" manual for usage information.
+Warning--empty journal in mikolovRecurrentNeuralNetwork
+Warning--empty pages in mikolovEfficientEstimationWord2013
+Warning--there's a publisher but no address in mikolovDistributedRepresentationsWords2013a
+Warning--empty journal in leDistributedRepresentationsSentences
+Warning--empty pages in kimConvolutionalNeuralNetworks2014a
+Warning--empty journal in socherSemanticCompositionalityRecursive
+Warning--there's a publisher but no address in irsoyDeepRecursiveNeural2014
+Warning--empty pages in chungEmpiricalEvaluationGated2014
+Warning--empty pages in taiImprovedSemanticRepresentations2015
+Warning--empty pages in leeSequentialShortTextClassification2016
+Warning--empty pages in liIndependentlyRecurrentNeural2018
+Warning--empty pages in vaswaniAttentionAllYou2017
+
+Done.
+You've used 37 entries,
+            4699 wiz_defined-function locations,
+            1274 strings with 17936 characters,
+and the built_in function-call counts, 24714 in all, are:
+= -- 2855
+> -- 364
+< -- 24
++ -- 216
+- -- 140
+* -- 1976
+:= -- 2809
+add.period$ -- 163
+call.type$ -- 37
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 49
+duplicate$ -- 1818
+empty$ -- 2560
+format.name$ -- 109
+if$ -- 5953
+int.to.chr$ -- 0
+int.to.str$ -- 37
+missing$ -- 2
+newline$ -- 223
+num.names$ -- 39
+pop$ -- 119
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 582
+stack$ -- 0
+substring$ -- 3157
+swap$ -- 455
+text.length$ -- 68
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 377
+warning$ -- 12
+while$ -- 203
+width$ -- 39
+write$ -- 320
+(There were 12 warnings)
