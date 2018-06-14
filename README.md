@@ -5,7 +5,7 @@ Code中主要是通过jupyter运行。
 
 ## 环境搭建
 ```
-# 基于python3环境
+# 基于python3 tensorflow CPU环境
 # 代码中仅有imdb word2vec模型，因此仅rnn_for_en.ipynb能直接运行。
 # 中文word2vec 模型，可使用搜狗全网新闻语料集(2012)训练，约1.54G
 cd code
