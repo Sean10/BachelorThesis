@@ -62,7 +62,7 @@ six==1.11.0
 smart-open==1.5.7
 snownlp==0.12.3
 tensorboard==1.7.0
-tensorflow==1.15.0
+tensorflow==1.15.2
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
